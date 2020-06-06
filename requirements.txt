@@ -1,6 +1,6 @@
 asgiref==3.2.5
 beautifulsoup4==4.8.2
-Django==3.0.4
+Django==3.0.7
 django-request==1.5.5
 python-dateutil==2.8.1
 pytz==2019.3
